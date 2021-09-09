@@ -60,6 +60,18 @@ Changelog ${version}:
 - Correction des icônes de type de remplissage manquantes
 ]]>
 		</fr>
+		<ru>
+			<![CDATA[
+Если вы когда-нибудь задавались вопросом "на что я смотрю?", то Info Display - правильный выбор для вас, потому, что он покажет вам много информации об объекте, на который вы смотрите, например:
+- Размер и тип дерева
+- Сколько щепы или сколько денег можно получить от бревна
+- Сколько и какого материала внутри поддона
+- Размер, вес и содержимое тюка
+- Вес и состояние техники или агрегата
+
+И это лишь часть информации, которую он вам сообщит.
+]]>
+		</ru>
 	</description>
 	<multiplayer supported="${multiplayerSupported}" />
 	<iconFilename>icon.dds</iconFilename>
@@ -312,7 +324,7 @@ Changelog ${version}:
 			<en>N/D</en>
 			<pl>Brak danych</pl>
 			<fr>Non défini</fr>
-			<ru>Н/Д</ru>
+			<ru>н/д</ru>
 		</text>
 		<text name="id_growth">
 			<en>Growth</en>
